@@ -1,0 +1,12 @@
+{
+  "name": "VOCARIS - 수능 영어 단어",
+  "short_name": "VOCARIS",
+  "description": "수능 영어 단어 학습과 중요단어 복습",
+  "start_url": "/today",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

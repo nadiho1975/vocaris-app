@@ -1,0 +1,29 @@
+﻿meaning_ko cleaning report
+input_rows=6629
+changed_rows=1633
+change_reasons=
+ - wide_space_normalized: 1588
+ - numbered_markers_removed: 1081
+ - english_parenthetical_removed: 553
+ - pos_marker_spacing_fixed: 183
+ - linebreak_or_tab_normalized: 17
+ - leading_slash_english_removed: 4
+ - pdf_part_artifact_removed: 4
+post_checks=
+ - remaining_numbered: 0
+ - remaining_wide_space_3plus: 0
+ - remaining_part_artifact: 0
+ - remaining_leading_slash_english: 0
+ - remaining_pos_semicolon: 0
+
+Key sample changes:
+[logic] 1. 논리학 2. 논리 -> 논리학; 논리
+[precaution] 명 예방(책); 경계, 조심 -> 명 예방(책); 경계, 조심
+[stick to] 1. 고수하다 2. 계속하다 -> 고수하다; 계속하다
+[retain] 1. 보유하다, 유지하다 2. (정보 등을) 기억하다 -> 보유하다, 유지하다; (정보 등을) 기억하다
+[respect] 1. 존경하다, 존중하다 2. (법 등을) 준수하다                1. 존경, 존중 2. 측면, 관점 -> 존경하다, 존중하다; (법 등을) 준수하다; 존경, 존중; 측면, 관점
+[enroll] / enrol             동 등록하다 (= register); 입학[입회]시키다 -> 동 등록하다; 입학[입회]시키다
+[blunt] 형 1. 직설적인 (= direct) 2. 무딘, 뭉툭한 (↔ sharp 날카로운, 예리한)                              PART 8 -> 형 직설적인; 무딘, 뭉툭한
+[dilute] 동 희석하다 형 (액체가) 희석된 -> 동 희석하다 형 (액체가) 희석된
+[obey] 복종하다, 따르다, 준수하다 (            disobey) -> 복종하다, 따르다, 준수하다
+[in charge] (of)   (~을) 맡고 있는, 담당의 -> (~을) 맡고 있는, 담당의

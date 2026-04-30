@@ -1,0 +1,3 @@
+# No Python packages required for the core script.
+# External tool recommended/required for high-quality Korean PDF extraction:
+# - Poppler pdftotext
